@@ -1,1 +1,1 @@
-# Sync2
+# Quizz App
