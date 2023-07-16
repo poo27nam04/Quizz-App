@@ -5,9 +5,8 @@
 
 ![Q1](https://github.com/poo27nam04/Quizz-App/assets/121489585/8cb0e750-7764-497b-966a-703773a875c3)
 
-![Uploading Q2.png…]()
+![Q2](https://github.com/poo27nam04/Quizz-App/assets/121489585/8b3b6f2d-0c39-4ad5-9777-45d653e90e1c)
 
-![Uploading Q3.png…]()
+![Q3](https://github.com/poo27nam04/Quizz-App/assets/121489585/9e7a6695-6321-4df1-a9fb-d96078c67625)
 
-![Uploading Q4.png…]()
-![Uploading Q4.png…]()
+![Q4](https://github.com/poo27nam04/Quizz-App/assets/121489585/b7d366de-41ad-482c-a2b4-038be067541d)
